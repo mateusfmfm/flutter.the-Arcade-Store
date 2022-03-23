@@ -32,7 +32,7 @@ class HomePage extends StatelessWidget {
               children: const [
                 TopSection(),
                 AdvantageSection(),
-                CoursesSection(),
+                ProductSection(),
               ],
             ),
           ),

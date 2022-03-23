@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_arcade_store/data/breakpoints.dart';
 import 'package:flutter_arcade_store/modules/home/widgets/sections/course_item.dart';
 
-class CoursesSection extends StatelessWidget {
-  const CoursesSection({Key? key}) : super(key: key);
+class ProductSection extends StatelessWidget {
+  const ProductSection({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -23,7 +23,7 @@ class CoursesSection extends StatelessWidget {
           ),
           itemCount: 20,
           itemBuilder: (context, index) {
-            return const CourseItem();
+            return const ProductItem();
           });
     });
   }

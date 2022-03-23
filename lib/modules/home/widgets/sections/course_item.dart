@@ -1,9 +1,7 @@
-import 'package:auto_size_text/auto_size_text.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-class CourseItem extends StatelessWidget {
-  const CourseItem({Key? key}) : super(key: key);
+class ProductItem extends StatelessWidget {
+  const ProductItem({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -32,7 +30,7 @@ class CourseItem extends StatelessWidget {
         ),
         const SizedBox(height: 6),
         const Text(
-          "U\$6.00,00",
+          "U\$6.000,00",
           style: TextStyle(
               fontWeight: FontWeight.bold, fontSize: 15, color: Colors.white),
         ),
