@@ -1,6 +1,11 @@
 # flutter_arcade_store
 
-A new Flutter project.
+Web and Mobile project with full responsivity! The same codebase!
+
+![image](https://user-images.githubusercontent.com/44587544/159615973-38e6b2d6-3a1e-4f1d-8411-1e970f8a3a34.png)
+
+![image](https://user-images.githubusercontent.com/44587544/159615889-30f89e25-c5e6-4cfe-8355-de98087ff4c7.png)
+
 
 ## Getting Started
 
