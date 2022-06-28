@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_arcade_store/data/breakpoints.dart';
-import 'package:flutter_arcade_store/modules/home/widgets/appbar/mobile_appbar.dart';
-import 'package:flutter_arcade_store/modules/home/widgets/appbar/web_appbar.dart';
-import 'package:flutter_arcade_store/modules/home/widgets/sections/advanteges_section.dart';
-import 'package:flutter_arcade_store/modules/home/widgets/sections/courses_section.dart';
-import 'package:flutter_arcade_store/modules/home/widgets/sections/top_section.dart';
+import 'package:flutter_arcade_store/app/config/breakpoints.dart';
+import 'package:flutter_arcade_store/app/presentation/modules/home/widgets/sections/advanteges_section.dart';
+import 'package:flutter_arcade_store/app/presentation/modules/home/widgets/sections/courses_section.dart';
+import 'package:flutter_arcade_store/app/presentation/modules/home/widgets/sections/top_section.dart';
+import 'package:flutter_arcade_store/app/presentation/widgets/appbar/mobile_appbar.dart';
+import 'package:flutter_arcade_store/app/presentation/widgets/appbar/web_appbar.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);

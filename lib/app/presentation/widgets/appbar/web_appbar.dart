@@ -1,6 +1,5 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_arcade_store/modules/home/widgets/appbar/web_appbar_responsive_content.dart';
+import 'package:flutter_arcade_store/app/presentation/widgets/appbar/web_appbar_responsive_content.dart';
 
 class WebAppBar extends StatelessWidget {
   const WebAppBar({Key? key}) : super(key: key);

@@ -1,7 +1,6 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_arcade_store/data/breakpoints.dart';
-import 'package:flutter_arcade_store/modules/home/widgets/custom_search_field.dart';
+import 'package:flutter_arcade_store/app/config/breakpoints.dart';
+import 'package:flutter_arcade_store/app/presentation/modules/home/widgets/custom_search_field.dart';
 
 class TopSection extends StatelessWidget {
   const TopSection({Key? key}) : super(key: key);
