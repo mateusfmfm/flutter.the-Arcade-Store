@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_arcade_store/app/config/breakpoints.dart';
+import 'package:flutter_arcade_store/app/core/ui/breakpoints.dart';
 import 'package:flutter_arcade_store/app/presentation/modules/home/widgets/sections/course_item.dart';
 
 class ProductSection extends StatelessWidget {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_arcade_store/app/config/breakpoints.dart';
+import 'package:flutter_arcade_store/app/core/ui/breakpoints.dart';
 import 'package:flutter_arcade_store/app/presentation/modules/home/widgets/custom_search_field.dart';
 
 class TopSection extends StatelessWidget {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_arcade_store/app/config/theme/fonts/roboto_style.dart';
+import 'package:flutter_arcade_store/app/core/ui/theme/fonts/roboto_style.dart';
 
 class TextMedium extends StatelessWidget {
   const TextMedium(

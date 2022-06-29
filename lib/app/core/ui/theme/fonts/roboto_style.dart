@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_arcade_store/app/config/theme/colors/custom_colors.dart';
+import 'package:flutter_arcade_store/app/core/ui/theme/colors/custom_colors.dart';
 
 class RobotoStyle {
   static TextStyle regular(BuildContext context) {
